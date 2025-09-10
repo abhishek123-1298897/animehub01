@@ -1,3 +1,4 @@
 # animehub01
-mine first
-author-abhishek patel
+this is my first repository.
+<br>
+author-abhishek patel.
