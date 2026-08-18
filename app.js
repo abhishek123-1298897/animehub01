@@ -70,9 +70,9 @@ async function main(){
 
 
 
-// app.get("/",(req,res) =>{
-//     res.send("home page of wanderlust");
-// });
+app.get("/", (req, res) => {
+    res.redirect("/listing");
+});
 
 
 app.use(session(sessionOptions));
